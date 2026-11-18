@@ -1,0 +1,22 @@
+# SI Akademik
+
+Project praktikum PHP tanpa CSS.
+
+## Struktur folder
+
+```text
+si-akademik/
+├── index.php
+├── login.php
+├── request.php
+└── README.md
+```
+
+## Cara menjalankan
+
+1. Letakkan folder `si-akademik` di `C:\xampp\htdocs`.
+2. Jalankan Apache dari XAMPP.
+3. Buka `http://localhost/si-akademik/`.
+4. Uji form GET, form POST, dan halaman `request.php`.
+
+Form login hanya simulasi praktikum dan tidak memverifikasi akun.
