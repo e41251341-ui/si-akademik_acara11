@@ -8,7 +8,8 @@ $requestMethod = $_SERVER['REQUEST_METHOD'] ?? 'GET';
     <title>SI Akademik</title>
 </head>
 <body>
-    <h1>Sistem Informasi Akademik - HALAMAN UTAMA</h1>
+
+<h1>Sistem Informasi Akademik - HALAMAN UTAMA DAN LOGIN</h1>
 
     <h2>Form Pencarian (GET)</h2>
     <form method="GET" action="index.php">
